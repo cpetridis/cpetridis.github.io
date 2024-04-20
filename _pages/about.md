@@ -51,4 +51,4 @@ Professional Experience
 - **Duration:** Feb 2022 - Apr 2022 (3 mo.)
 <br><br><br><br>
 
-## <center>*Feel free to reach out for collaboration/new ideas*</center>
+## <center> *Feel free to reach out for collaboration/new ideas* </center>
