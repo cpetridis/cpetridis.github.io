@@ -25,12 +25,28 @@ Education
 
 Professional Experience
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+### IT Dept. & Energy Efficiency Dept.
+
+- **Position:** Full-time job
+- **Company:** [Angelicoussis Group](https://angelicoussisgroup.com/)
+- **Location:** Athens, Greece
+- **Duration:** June 2023 - September 2023
+
+
+### Software Engineer Intern
+
+- **Position:** Internship
+- **Company:** [Psathas Neilos Christos Software Company](https://www.linkedin.com/in/nilos-psathas/)
+- **Location:** Volos, Greece
+- **Duration:** July 2022 - August 2022
+
+
+### Software Engineer Intern
+
+- **Position:** Internship
+- **Company:** [Swollet Technologies Ltd.](https://swollet.com/)
+- **Location:** Dublin, Ireland
+- **Duration:** February 2022 - June 2022
 
 Site-wide configuration
 ------
