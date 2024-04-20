@@ -19,7 +19,7 @@ My primary areas of interest are Data science, Machine learning, Data mining, In
 - **Duration:** starting Fall 2024
 
 ### [University of Thessaly](https://www.uth.gr/), Volos, Greece
-![Editing a markdown file for a talk](/images/UTH-logo-english.png){: .align-right width="200px"}
+![Editing a markdown file for a talk](/images/UTH-logo-english.png){: .align-right width="150px"}
 
 - **Degree:** B.Sc. & M.Sc. in [Electrical and Computer Engineering](https://www.e-ce.uth.gr/?lang=en) (Integrated Master, 5-year program, 300 ECTS)
 - **Thesis:** "Detecting Hull Fouling using Machine Learning Algorithms trained on Ship Propulsion Data", *Supervisor: Prof. Michael Vassilakopoulos*
