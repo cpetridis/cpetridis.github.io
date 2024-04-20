@@ -49,6 +49,6 @@ Professional Experience
 - **Company:** [Swollet Technologies Ltd.](https://swollet.com/)
 - **Location:** Dublin, Ireland (remote)
 - **Duration:** Feb 2022 - Apr 2022 (3 mo.)
+<br><br><br><br>
 
-
-## *Feel free to reach out and say hi*
+## <center>*Feel free to reach out for collaboration/new ideas*</center>
