@@ -1,7 +1,7 @@
 ---
 title: "Detecting Hull Fouling using Machine Learning Algorithms trained on Ship Propulsion Data to Improve Resource Management and Increase Environmental Benefits"
 collection: publications
-permalink: /publication/hull-fouling-sdsc2024.md
+permalink: /publication/hull-fouling-sdsc2024
 excerpt: 'This article refers to my Integrated Master thesis at the University of Thessaly.'
 date: 2024-10-04
 venue: '8th International Conference on
