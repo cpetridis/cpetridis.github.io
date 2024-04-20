@@ -1,22 +1,29 @@
 ---
 permalink: /
-title: "About2"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Education
-======
 I am currently in the last semester of my Integrated Master in Electrical and Computer Engineering Department of the University of Thessaly (5-year degree, 300 ECTS). 
 My primary areas of interest are Data science, Machine learning, Data mining, Information retrieval, Information visualization, Visual analytics. My fascination with Mathematics dates back to my childhood, and upon discovering the field of data science and machine learning, the mathematical principles I had learned were brought to life. I find the process of using these concepts to train models and neural networks, evaluating their accuracy, minimizing incorrect predictions, and solving real-world problems to be highly interesting and intriguing. I am currently in the 9th semester of my Integrated Master (B.Sc. & M.Sc.), pursuing my passion for data science. Through my academic journey, I have gained significant experience in the field, which has strengthened my skills and deepened my understanding of its applications. I am excited about the limitless possibilities presented by these fields, and I am eager to contribute my knowledge and expertise to create a positive impact through my research. Consequently, I would like to pursue a Ph.D. and I firmly believe that the United States is the best place for such research, given that research innovations and cutting-edge technology primarily originate from American universities and organizations.
 
-A data-driven personal website
+Education
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+### [University of Thessaly](https://uth.gr), Volos, Greece
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+- **Degree:** B.Sc. & M.Sc. in [Electrical and Computer Engineering](https://www.e-ce.uth.gr/?lang=en) (Integrated Master, 5-year program)
+- **Thesis:** "Detecting hull fouling using machine learning algorithms trained on ship propulsion data"
+- **Duration:** September 2019 - Ongoing
+
+---
+### [University of Thessaly](https://uth.gr), Volos, Greece
+
+- **Degree:** B.Sc. & M.Sc. in [Electrical and Computer Engineering](https://www.e-ce.uth.gr/?lang=en) (Integrated Master, 5-year program)
+- **Thesis:** "Detecting hull fouling using machine learning algorithms trained on ship propulsion data"
+- **Duration:** September 2019 - Ongoing
 
 Getting started
 ======
