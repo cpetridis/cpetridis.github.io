@@ -21,8 +21,8 @@ Education
 
 - **Degree:** B.Sc. & M.Sc. in [Electrical and Computer Engineering](https://www.e-ce.uth.gr/?lang=en) (Integrated Master, 5-year program, 300 ECTS)
 - **Thesis:** "Detecting Hull Fouling using Machine Learning Algorithms trained on Ship Propulsion Data", *Supervisor: Prof. Michael Vassilakopoulos*
-- **Duration:** Fall 2019 - Spring 2024 (expected)
-<br>
+- **Duration:** Fall 2019 - Spring 2024 (expected)<br><br>
+
 Professional Experience
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
