@@ -26,7 +26,7 @@ Education
 Professional Experience
 ======
 ### Data Scientist in Energy Efficiency Dept.
-![Editing a markdown file for a talk](/images/editing-talk.png){: style="float: right", width="200px"}
+![Editing a markdown file for a talk](/images/editing-talk.png){: .align-right width="200px"}
 
 - **Position:** Fixed term full-time job
 - **Company:** [Angelicoussis Group](https://angelicoussisgroup.com/)
