@@ -1,8 +1,8 @@
 ---
-title: "TA for ECE311 Database Systems I"
+title: "Teaching Assistant for ECE311 Database Systems I"
 collection: teaching
 type: "Fall 2023 Undergrad class"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/ECE311DatabaseSystemsI
 venue: "University of Thessaly"
 location: "Volos, Greece"
 ---
