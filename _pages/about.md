@@ -25,12 +25,13 @@ Education
 
 Professional Experience
 ======
-### IT Dept. & Energy Efficiency Dept.
+### Data Scientist in Energy Efficiency Dept.
+![Editing a markdown file for a talk](/images/editing-talk.png){: style="float: right", width="200px"}
 
-- **Position:** Full-time job
+- **Position:** Fixed term full-time job
 - **Company:** [Angelicoussis Group](https://angelicoussisgroup.com/)
 - **Location:** Athens, Greece
-- **Duration:** June 2023 - September 2023
+- **Duration:** Jun 2023 - Sep 2023 (4 mo.)
 
 
 ### Software Engineer Intern
@@ -38,7 +39,7 @@ Professional Experience
 - **Position:** Internship
 - **Company:** [Psathas Neilos Christos Software Company](https://www.linkedin.com/in/nilos-psathas/)
 - **Location:** Volos, Greece
-- **Duration:** July 2022 - August 2022
+- **Duration:** Jul 2022 - Aug 2022 (2 mo.)
 
 
 ### Software Engineer Intern
@@ -46,7 +47,7 @@ Professional Experience
 - **Position:** Internship
 - **Company:** [Swollet Technologies Ltd.](https://swollet.com/)
 - **Location:** Dublin, Ireland
-- **Duration:** February 2022 - June 2022
+- **Duration:** Feb 2022 - Apr 2022 (3 mo.)
 
 Site-wide configuration
 ------
