@@ -12,17 +12,16 @@ My primary areas of interest are Data science, Machine learning, Data mining, In
 
 Education
 ======
-### [University of Thessaly](https://uth.gr), Volos, Greece
+### [Temple University](https://www.temple.edu/), Philadelphia, PA, USA
 
-- **Degree:** B.Sc. & M.Sc. in [Electrical and Computer Engineering](https://www.e-ce.uth.gr/?lang=en) (Integrated Master, 5-year program)
-- **Thesis:** "Detecting hull fouling using machine learning algorithms trained on ship propulsion data"
-- **Duration:** September 2019 - Ongoing
+- **Degree:** Ph.D. in [Computer and Information Science](https://cis.temple.edu/index.html)
+- **Duration:** starting Fall 2024
 
-### [University of Thessaly](https://uth.gr), Volos, Greece
+### [University of Thessaly](https://www.uth.gr/), Volos, Greece
 
-- **Degree:** B.Sc. & M.Sc. in [Electrical and Computer Engineering](https://www.e-ce.uth.gr/?lang=en) (Integrated Master, 5-year program)
-- **Thesis:** "Detecting hull fouling using machine learning algorithms trained on ship propulsion data"
-- **Duration:** September 2019 - Ongoing
+- **Degree:** B.Sc. & M.Sc. in [Electrical and Computer Engineering](https://www.e-ce.uth.gr/?lang=en) (Integrated Master, 5-year program, 300 ECTS)
+- **Thesis:** "Detecting Hull Fouling using Machine Learning Algorithms trained on Ship Propulsion Data", *Supervisor: Prof. Michael Vassilakopoulos*
+- **Duration:** Fall 2019 - Spring 2024 (expected)
 
 Getting started
 ======
