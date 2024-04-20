@@ -9,7 +9,7 @@ redirect_from:
 
 I am currently in the last semester of my Integrated Master in Electrical and Computer Engineering Department of the University of Thessaly (5-year degree, 300 ECTS). 
 My primary areas of interest are Data science, Machine learning, Data mining, Information retrieval, Information visualization, Visual analytics. My fascination with Mathematics dates back to my childhood, and upon discovering the field of data science and machine learning, the mathematical principles I had learned were brought to life. I find the process of using these concepts to train models and neural networks, evaluating their accuracy, minimizing incorrect predictions, and solving real-world problems to be highly interesting and intriguing. I am currently in the 9th semester of my Integrated Master (B.Sc. & M.Sc.), pursuing my passion for data science. Through my academic journey, I have gained significant experience in the field, which has strengthened my skills and deepened my understanding of its applications. I am excited about the limitless possibilities presented by these fields, and I am eager to contribute my knowledge and expertise to create a positive impact through my research. Consequently, I would like to pursue a Ph.D. and I firmly believe that the United States is the best place for such research, given that research innovations and cutting-edge technology primarily originate from American universities and organizations.
-
+<br>
 Education
 ======
 ### [Temple University](https://www.temple.edu/), Philadelphia, PA, USA
@@ -22,8 +22,8 @@ Education
 - **Degree:** B.Sc. & M.Sc. in [Electrical and Computer Engineering](https://www.e-ce.uth.gr/?lang=en) (Integrated Master, 5-year program, 300 ECTS)
 - **Thesis:** "Detecting Hull Fouling using Machine Learning Algorithms trained on Ship Propulsion Data", *Supervisor: Prof. Michael Vassilakopoulos*
 - **Duration:** Fall 2019 - Spring 2024 (expected)
-
-Getting started
+<br>
+Professional Experience
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
