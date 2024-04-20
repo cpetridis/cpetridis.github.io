@@ -1,13 +1,14 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am currently in the last semester of my Integrated Master in Electrical and Computer Engineering Department of the University of Thessaly (5-year degree, 300 ECTS). 
+My primary areas of interest are Data science, Machine learning, Data mining, Information retrieval, Information visualization, Visual analytics. My fascination with Mathematics dates back to my childhood, and upon discovering the field of data science and machine learning, the mathematical principles I had learned were brought to life. I find the process of using these concepts to train models and neural networks, evaluating their accuracy, minimizing incorrect predictions, and solving real-world problems to be highly interesting and intriguing. I am currently in the 9th semester of my Integrated Master (B.Sc. & M.Sc.), pursuing my passion for data science. Through my academic journey, I have gained significant experience in the field, which has strengthened my skills and deepened my understanding of its applications. I am excited about the limitless possibilities presented by these fields, and I am eager to contribute my knowledge and expertise to create a positive impact through my research. Consequently, I would like to pursue a Ph.D. and I firmly believe that the United States is the best place for such research, given that research innovations and cutting-edge technology primarily originate from American universities and organizations.
 
 A data-driven personal website
 ======
