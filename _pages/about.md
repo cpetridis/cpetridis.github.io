@@ -53,4 +53,6 @@ My primary areas of interest are Data science, Machine learning, Data mining, In
 - **Duration:** Feb 2022 - Apr 2022 (3 mo.)
 <br><br><br><br>
 
-## *<center>Feel free to reach out for collaboration/new ideas</center>*
+<!-- ## *<center>Feel free to reach out for collaboration/new ideas</center>* -->
+## *<center>Two things are infinite. The universe and human stupidity ... and I'm not sure about the universe.</center>*
+ *<center>Albert Einstein</center>*
