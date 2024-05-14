@@ -56,3 +56,6 @@ My primary areas of interest are Data science, Machine learning, Data mining, In
 <!-- ## *<center>Feel free to reach out for collaboration/new ideas</center>* -->
 ## *<center>Two things are infinite. The universe and human stupidity ... and I'm not sure about the universe.</center>*
  *<center>Albert Einstein</center>*
+
+<script src="https://static.elfsight.com/platform/platform.js" data-use-service-core defer></script>
+<div class="elfsight-app-fcdc42ca-dd48-4078-aea2-8635cc47b58b" data-elfsight-app-lazy></div>
