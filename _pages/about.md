@@ -23,7 +23,7 @@ My primary areas of interest are Data science, Machine learning, Data mining, In
 
 - **Degree:** B.Sc. & M.Sc. in [Electrical and Computer Engineering](https://www.e-ce.uth.gr/?lang=en) (Integrated Master, 5-year program, 300 ECTS)
 - **Thesis:** "Detecting Hull Fouling using Machine Learning Algorithms trained on Ship Propulsion Data", *Supervisor: Prof. Michael Vassilakopoulos*
-- **Duration:** Fall 2019 - Spring 2024 (expected)<br><br>
+- **Duration:** Sep 2019 - Jun 2024 (expected)<br><br>
 
 <u>Professional Experience</u>
 ======
@@ -41,7 +41,7 @@ My primary areas of interest are Data science, Machine learning, Data mining, In
 - **Position:** Internship
 - **Company:** [Psathas Neilos Christos Software Company](https://www.linkedin.com/in/nilos-psathas/)
 - **Location:** Volos, Greece (on-site)
-- **Duration:** Jul 2022 - Aug 2022 (2 mo.)
+- **Duration:** Jul 2022 - Nov 2022 (5 mo.)
 
 
 ### Software Engineer Intern
