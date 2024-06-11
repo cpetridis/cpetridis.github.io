@@ -2,7 +2,7 @@
 title: "Detecting Hull Fouling using Machine Learning Algorithms trained on Ship Propulsion Data to Improve Resource Management and Increase Environmental Benefits"
 collection: publications
 permalink: /publication/hull-fouling-sdsc2024
-excerpt: 'This article refers to my Integrated Master thesis at the University of Thessaly (Spring 2024).'
+excerpt: 'This article refers to my Integrated Master thesis at the University of Thessaly (Spring 2024). **Won the Best Paper award in Smart Green category**.'
 date: 2024-10-04
 venue: 'ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences (presented at 8th International Conference on SDSC, 2024).'
 paperurl: 'https://isprs-annals.copernicus.org/articles/X-4-W4-2024/185/2024/isprs-annals-X-4-W4-2024-185-2024.pdf'
