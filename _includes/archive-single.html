@@ -55,9 +55,8 @@
     {% endif %} -->
     
     {% if post.citation and post.paperurl %}
-      <p>Recommended citation: <a href="{{ post.citation }}">BibTeX Citation</a></p> 
-      <p><a href="{{ post.paperurl }}">PDF</a></p>
-      <p>Find out more <a href="{{ https://isprs-annals.copernicus.org/articles/X-4-W4-2024/185/2024/ }}">here.</a></p>
+      <p>Recommended citation: <a href="{{ post.citation }}">BibTeX Citation</a>, <a href="{{ post.paperurl }}">PDF</a><br>
+      Find out more <a href="{{ https://isprs-annals.copernicus.org/articles/X-4-W4-2024/185/2024/ }}">here.</a></p>
     {% elsif post.citation %}
       <p>Recommended citation: {{ post.citation }} </p>
     {% elsif post.paperurl %}
