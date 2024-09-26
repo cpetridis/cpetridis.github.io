@@ -80,8 +80,6 @@
   display: table-cell;
   vertical-align: top;
   width: 36px;
-  // set width only, for non-square avatars
-  // height: 36px;
 
   @include breakpoint($large) {
     display: block;
@@ -90,8 +88,9 @@
   }
 
   img {
-    max-width: 175px;
-    border-radius: 10px; // Change this to adjust the smoothness of corners
+    width: 150px; // Set a fixed width for the rectangle
+    height: 100px; // Set a fixed height for the rectangle
+    border-radius: 10px; // Adjust the smoothness of the corners
 
     @include breakpoint($large) {
       padding: 5px;
@@ -99,6 +98,7 @@
     }
   }
 }
+  
   
 
 .author__content {
