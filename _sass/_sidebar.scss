@@ -88,8 +88,8 @@
   }
 
   img {
-    width: 150px; // Set a fixed width for the rectangle
-    height: 100px; // Set a fixed height for the rectangle
+    width: 250px; // Set a fixed width for the rectangle
+    height: 350px; // Set a fixed height for the rectangle
     border-radius: 10px; // Adjust the smoothness of the corners
 
     @include breakpoint($large) {
