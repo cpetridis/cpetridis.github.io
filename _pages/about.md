@@ -27,12 +27,20 @@ My primary areas of interest are Data science, Machine learning, Data mining, In
 - **Thesis:** "Detecting Hull Fouling using Machine Learning Algorithms trained on Ship Propulsion Data", *Supervisor: Prof. Michael Vassilakopoulos*
 - **Duration:** Sep 2019 - Jun 2024<br><br>
 - **Rankings:**
-  - **1)** Ranked 12th among the 114 graduates (Top 10%) of the 2023-2024 academic year.
+  - **1)** Ranked 4th in my class (only 18 students graduated from my entry year (167 admitted students) until the graduation ceremony in July 2024).
   - **2)** Ranked 4th among the 18 graduates (Top 22%) from my entry year (167 admitted students) until the graduation ceremony in July 2024.
 
 
 <u>Professional Experience</u>
 ======
+### Graduate Research Assistant
+![Editing a markdown file for a talk](/images/Temple_University_logo.png){: .align-right width="200px"}
+
+- **Position:** Research for my PhD
+- **Company:** [Temple University, DABI LAB](https://dabi.temple.edu/zoran-obradovic/lab/)
+- **Location:** Philadelphia, PA, USA (on-site)
+- **Duration:** Aug 2024 - Present
+
 ### Data Scientist in Energy Efficiency Dept.
 ![Editing a markdown file for a talk](/images/ang-grp.png){: .align-right width="200px"}
 
