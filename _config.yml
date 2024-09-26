@@ -21,7 +21,7 @@ repository               : "https://cpetridis.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   name             : "Christos Petridis"
   pronouns         : # example: "He/His/Him"  
   bio              : "Ph.D. student in Computer and Information Science"
