@@ -25,7 +25,7 @@ If you are interested in collaborating or working with me, you are more than wel
 ![Editing a markdown file for a talk](/images/UTH-logo-english.png){: .align-right width="150px"}
 
 - **Degree:** B.Sc. & M.Sc. in [Electrical and Computer Engineering](https://www.e-ce.uth.gr/?lang=en) (Integrated Master, 5-year program, 300 ECTS)
-- **Thesis:** "Detecting Hull Fouling using Machine Learning Algorithms trained on Ship Propulsion Data", *Adviso: Prof. Michael Vassilakopoulos*
+- **Thesis:** "Detecting Hull Fouling using Machine Learning Algorithms trained on Ship Propulsion Data", *Advisor: Prof. Michael Vassilakopoulos*
 - **Duration:** Sep 2019 - Jun 2024
 - **Rankings:**
   - **1)** Ranked 4th in my class (only 18 students graduated from my entry year (167 admitted students) until the graduation ceremony in July 2024).
