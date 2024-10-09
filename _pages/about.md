@@ -7,8 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently pursuing my Ph.D. in Computer and Information Science at Temple University, PA, USA. Before this, I completed my Integrated Master (5-year degree, 300 ECTS) in Electrical and Computer Engineering at the University of Thessaly in Volos, Greece.
-My primary areas of interest are Data science, Machine learning, Data mining, Information retrieval, Information visualization, Visual analytics. My fascination with Mathematics dates back to my childhood, and upon discovering the field of data science and machine learning, the mathematical principles I had learned were brought to life. I find the process of using these concepts to train models and neural networks, evaluating their accuracy, minimizing incorrect predictions, and solving real-world problems to be highly interesting and intriguing. Through my academic journey, I have gained significant experience in the field, which has strengthened my skills and deepened my understanding of its applications. I am excited about the limitless possibilities presented by these fields, and I am eager to contribute my knowledge and expertise to create a positive impact through my research. <br><br>
+I am currently a Ph.D. Student (1st year) in Computer and Information Sciences at Temple University in Philadelphia, PA working with Prof. Zoran Obradovic. Before that, I completed my Integrated Master (5-year degree) in Electrical and Computer Engineering at the University of Thessaly in Volos, Greece.
+My research interests span across multiple areas of machine learning, including - but not limited to :) - Information Retrieval and Knowledge Discovery, with a focus on developing methods to extract meaningful insights from complex datasets. I am currently exploring Reinforcement Learning to develop intelligent systems that can adapt and learn in dynamic environments (supply chain management).
+If you are interested in collaborating or working with me, you are more than welcome to reach out! <br><br>
 
 <u>Education</u>
 ======
@@ -17,18 +18,20 @@ My primary areas of interest are Data science, Machine learning, Data mining, In
 
 - **Degree:** Ph.D. in [Computer and Information Science](https://cis.temple.edu/index.html)
 - **Lab:** [DABI](https://dabi.temple.edu/zoran-obradovic/lab/) (Center for Data Analytics and Biomedical Informatics) 
-- **Supervisor:** Prof. Zoran Obradovic
+- **Advisor:** Prof. Zoran Obradovic
 - **Duration:** Aug 2024 - Present
 
 ### [University of Thessaly](https://www.uth.gr/), Volos, Greece
 ![Editing a markdown file for a talk](/images/UTH-logo-english.png){: .align-right width="150px"}
 
 - **Degree:** B.Sc. & M.Sc. in [Electrical and Computer Engineering](https://www.e-ce.uth.gr/?lang=en) (Integrated Master, 5-year program, 300 ECTS)
-- **Thesis:** "Detecting Hull Fouling using Machine Learning Algorithms trained on Ship Propulsion Data", *Supervisor: Prof. Michael Vassilakopoulos*
-- **Duration:** Sep 2019 - Jun 2024<br><br>
+- **Thesis:** "Detecting Hull Fouling using Machine Learning Algorithms trained on Ship Propulsion Data", *Adviso: Prof. Michael Vassilakopoulos*
+- **Duration:** Sep 2019 - Jun 2024
 - **Rankings:**
   - **1)** Ranked 4th in my class (only 18 students graduated from my entry year (167 admitted students) until the graduation ceremony in July 2024).
-  - **2)** Ranked 4th among the 18 graduates (Top 22%) from my entry year (167 admitted students) until the graduation ceremony in July 2024.
+  - **2)** Ranked 12th among the 114 graduates (Top 10%) of the 2023-2024 academic year.<br>
+  <!-- Ranked 4th among the 18 graduates (Top 22%) from my entry year (167 admitted students) until the graduation ceremony in July 2024.
+   -->
 
 
 <u>Professional Experience</u>
@@ -68,8 +71,8 @@ My primary areas of interest are Data science, Machine learning, Data mining, In
 <br><br><br><br>
 
 <!-- ## *<center>Feel free to reach out for collaboration/new ideas</center>* -->
-## *<center>Two things are infinite. The universe and human stupidity ... and I'm not sure about the universe.</center>*
- *<center>Albert Einstein</center>*
+## *<center>The only way to do great work is to love what you do.</center>*
+ *<center>Steve Jobs</center>*
  
 <center>
 <script src="https://static.elfsight.com/platform/platform.js" data-use-service-core defer></script>
