@@ -1,3 +1,6 @@
+## *<center>The harder you work, The luckier you get</center>*
+ *<center>Gary Player</center>*
+
 ---
 permalink: /
 title: "About"
