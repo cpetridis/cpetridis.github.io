@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/hull-fouling-sdsc2024
 excerpt: 'This article refers to my Integrated Master thesis at the University of Thessaly (Spring 2024). **Won the Best Paper award in Smart Green category**.'
 date: 2024-10-04
-venue: 'ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences (presented at 8th International Conference on SDSC, 2024).'
+venue: 'Proceedings of the 8th International Conference on Smart Data and Smart Cities (SDSC 2024, Athens Greece)'
 paperurl: 'https://isprs-annals.copernicus.org/articles/X-4-W4-2024/185/2024/isprs-annals-X-4-W4-2024-185-2024.pdf'
 citation: 'https://isprs-annals.copernicus.org/articles/X-4-W4-2024/185/2024/isprs-annals-X-4-W4-2024-185-2024.bib'
 ---
