@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">News</div>
+  <div class="wordwrap">Let's breakdown some of the less important events.</div>
 {% endif %}
 
 {% include base_path %}
