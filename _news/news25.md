@@ -1,6 +1,6 @@
 ---
 title: "2025"
-dates: |
+type: |
   Mar 25  
   Feb 25  
   Jan 25
