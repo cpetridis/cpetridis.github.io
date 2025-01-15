@@ -20,6 +20,7 @@ If you are interested in collaborating or working with me, you are more than wel
 ![Editing a markdown file for a talk](/images/Temple_University_logo.png){: .align-right width="200px"}
 
 - **Degree:** Ph.D. in [Computer and Information Science](https://cis.temple.edu/index.html)
+- **Currrent GPA:** 3.9/4.0
 - **Lab:** [DABI](https://dabi.temple.edu/zoran-obradovic/lab/) (Center for Data Analytics and Biomedical Informatics) 
 - **Advisor:** Prof. Zoran Obradovic
 - **Duration:** Aug 2024 - Present
@@ -28,6 +29,7 @@ If you are interested in collaborating or working with me, you are more than wel
 ![Editing a markdown file for a talk](/images/UTH-logo-english.png){: .align-right width="150px"}
 
 - **Degree:** B.Sc. & M.Sc. in [Electrical and Computer Engineering](https://www.e-ce.uth.gr/?lang=en) (Integrated Master, 5-year program, 300 ECTS)
+- **GPA:** 8.23/10.0
 - **Thesis:** "Detecting Hull Fouling using Machine Learning Algorithms trained on Ship Propulsion Data", *Advisor: Prof. Michael Vassilakopoulos*
 - **Duration:** Sep 2019 - Jun 2024
 - **Rankings:**
