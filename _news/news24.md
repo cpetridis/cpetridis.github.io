@@ -10,6 +10,8 @@ type: "
 <br>
 <b>Jun 24</b>: My Integrated Master's thesis is published at the 8th International Conference on Smart Data and Smart Cities (SDSC 2024, Athens Greece). 
 <br>
+<b>Mar 24</b>: I was admitted to some PhD programs and accepted the offer from Temple University in Philly, PA.
+<br>
 <b>Mar 24</b>: Working on my thesis in collaboration with Angelicoussis Group.
 <br>
 <b>Feb 24</b>: I am done with coursework at the University of Thessaly in Greece (Integrated Master's).
