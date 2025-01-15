@@ -12,6 +12,6 @@ type: "
 <br>
 <b>Mar 24</b>: Working on my thesis in collaboration with Angelicoussis Group.
 <br>
-<b>Feb 24</b>: I am done with coursework at the University of Thessaly (Integrated Master's).
+<b>Feb 24</b>: I am done with coursework at the University of Thessaly in Greece (Integrated Master's).
 "
 ---

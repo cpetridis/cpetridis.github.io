@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">Let's breakdown some of the less important events.</div>
+  <div class="wordwrap">Stay tuned for events that barely matter! :) Let’s break down some critically unimportant events. :) </div>
 {% endif %}
 
 {% include base_path %}
