@@ -6,7 +6,7 @@ type: "
 <br>
 <b>Aug 24</b>: Getting ready to moved to the United States for my PhD.
 <br>
-<b>Jul 24</b>: Graduate from the University of Thessaly (8.23/10).
+<b>Jul 24</b>: Graduated from the University of Thessaly (8.23/10).
 <br>
 <b>Jun 24</b>: My Integrated Master's thesis is published at the 8th International Conference on Smart Data and Smart Cities (SDSC 2024, Athens Greece). 
 <br>
