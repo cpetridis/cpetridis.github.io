@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "News"
+    url: /news/    
+
   - title: "CV"
     url: /files/Christos_Petridis_CV.pdf
 
