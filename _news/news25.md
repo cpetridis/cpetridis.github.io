@@ -1,9 +1,5 @@
 ---
 title: "2025"
 type: "
-Mar 25: helloooo march 
-<br>
-Feb 25: yesssir Feb
-<br>
-Jan 25: sup broooo Jan"
+Jan 25: Heading into my 2nd semester at Temple! (2 courses + RA)"
 ---
