@@ -1,7 +1,6 @@
 ---
 title: "2024"
-type:
-"
+type: "
 Dec 24: deded
 <br>
 Nov 24:frfrf
