@@ -10,7 +10,7 @@ redirect_from:
 ## *<center>The harder you work, The luckier you get</center>*
  *<center>Gary Player</center>*
 
-I am currently a Ph.D. Student (1st year) in Computer and Information Sciences at Temple University in Philadelphia, PA working with Prof. Zoran Obradovic. Before that, I completed my Integrated Master (5-year degree) in Electrical and Computer Engineering at the University of Thessaly in Volos, Greece.
+I am currently a Ph.D. student (1st year) in Computer and Information Sciences at Temple University in Philadelphia, PA working with Prof. Zoran Obradovic. Before that, I completed my Integrated Master (5-year degree) in Electrical and Computer Engineering at the University of Thessaly in Volos, Greece.
 My research interests span across multiple areas of machine learning, including - but not limited to :) - Information Retrieval and Knowledge Discovery, with a focus on developing methods to extract meaningful insights from complex datasets.
 If you are interested in collaborating or working with me, you are more than welcome to reach out! <br><br>
 
