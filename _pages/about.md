@@ -70,7 +70,7 @@ If you are interested in collaborating or working with me, you are more than wel
 ![Editing a markdown file for a talk](/images/swollet.png){: .align-right width="200px"}
 
 - **Position:** Internship
-- **Company:** [Swollet Technologies Ltd.](https://swollet.xyz/)
+- **Company:** [Swollet Technologies Ltd.]
 - **Location:** Dublin, Ireland (remote)
 - **Duration:** Feb 2022 - Apr 2022 (3 mo.)
 <br><br><br><br>
