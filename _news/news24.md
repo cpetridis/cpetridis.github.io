@@ -1,7 +1,7 @@
 ---
 title: "2024"
 type: "
-<b>Sep 24</b>: Started my first semester at Temple! (2 courses + RA)
+<b>Sep 24</b>: Started my first semester at Temple! (coursework + RA)
 <br>
 <b>Aug 24</b>: Moving to the United States for my PhD.
 <br>
